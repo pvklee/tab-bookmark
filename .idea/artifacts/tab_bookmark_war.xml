@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tab-bookmark:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tab-bookmark.war">
+      <element id="artifact" artifact-name="tab-bookmark:war exploded" />
+    </root>
+  </artifact>
+</component>
